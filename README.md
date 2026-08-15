@@ -5,7 +5,7 @@ I'm Muz, a programmer based in the UK.
 
 ### Work :microscope:
 
-My day job is in biopharma R&D, where I mostly use Python for Machine Learning. Sadly all the cool stuff I've written is locked behind an enterprise Github account :(
+My day job ~is~ was in biopharma R&D, where I mostly used Python for Machine Learning. Sadly all the cool stuff I wrote is locked behind an enterprise Github account :(
 
 
 ### Open-source :crab:
