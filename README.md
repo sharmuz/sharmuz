@@ -13,5 +13,6 @@ My day job ~is~ was in biopharma R&D, where I mostly used Python for Machine Lea
 Outside of the day job I prefer to code in Rust. Take a look at my (slowly growing) set of free and open-source software:
 
 - :books: [Spine](https://github.com/sharmuz/spine) is a simple tool to manage your book collection from the comfort of your own terminal!
+- :snake: [Carlae](https://github.com/sharmuz/carlae) is a minimal, Turing-complete, Python-like language, implemented in Rust.
 
 If any of these interest you, feel free to give them a whirl, ask a question, open an issue or best of all make a contribution :)
